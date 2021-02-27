@@ -8,6 +8,7 @@ echo Starting T-rex miner...
 echo ============================================================
 echo Server: $SERVER
 echo Algorithm: $ALGO
+echo Device: $DEVICE
 echo Wallet: $WALLET
 echo Worker: $WORKER
 echo ============================================================
